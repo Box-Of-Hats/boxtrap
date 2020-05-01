@@ -1,24 +1,24 @@
 {
-  "name": "boxtrap",
-  "version": "1.0.0",
-  "description": "Base styling for projects by box-of-hats",
-  "main": "boxtrap.scss",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Box-Of-Hats/boxtrap.git"
-  },
-  "keywords": [
-    "scss",
-    "style",
-    "box-of-hats"
-  ],
-  "author": "Box-Of-Hats",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Box-Of-Hats/boxtrap/issues"
-  },
-  "homepage": "https://github.com/Box-Of-Hats/boxtrap#readme"
+    "name": "boxtrap",
+    "version": "1.1.0",
+    "description": "Base styling for projects by box-of-hats",
+    "main": "boxtrap.scss",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Box-Of-Hats/boxtrap.git"
+    },
+    "keywords": [
+        "scss",
+        "style",
+        "box-of-hats"
+    ],
+    "author": "Box-Of-Hats",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Box-Of-Hats/boxtrap/issues"
+    },
+    "homepage": "https://github.com/Box-Of-Hats/boxtrap#readme"
 }
